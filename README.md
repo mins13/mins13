@@ -45,6 +45,10 @@
 
 [쏙장부 바로가기 ↗](https://ssokledger.duckdns.org/)
 
+> 출시 및 운영 중인 서비스로 소스 코드는 비공개입니다.
+
+> 기획부터 프론트엔드·백엔드 개발, 배포까지 직접 진행했습니다.
+
 <br />
 
 ### 🥗 오늘 뭐 먹지? · 냉장고 속 재료의 다음 이야기 ![Full Stack](https://img.shields.io/badge/Full_Stack-D9F2E9?style=flat-square&labelColor=D9F2E9)
