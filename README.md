@@ -57,9 +57,9 @@
 
 `Spring Boot` `JPA` `Spring Security` `JWT` `MySQL` `React`
 
-<!--
-[코드 보기 ↗](실제-오늘뭐먹지-저장소-주소)
--->
+
+[코드 보기 ↗](https://github.com/mins13/TodayWhatEat)
+
 
 <br />
 
