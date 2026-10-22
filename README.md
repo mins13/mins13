@@ -41,7 +41,7 @@
 영수증 AI 인식과 장부 자동 정리를 통해  
 반복적인 입력과 사람이 놓칠 수 있는 실수를 줄이고자 합니다.
 
-`Spring Boot` `JPA` `MySQL` `Spring AI` `React Native`
+`Spring Boot` `JPA` `MySQL` `Spring AI` `Gemini API` `React Native`
 
 [쏙장부 바로가기 ↗](https://ssokledger.duckdns.org/)
 
