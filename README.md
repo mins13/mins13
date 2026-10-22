@@ -43,7 +43,8 @@ Gemini API를 활용해 영수증 이미지에서 핵심 정보를 추출하고,
 
 `Spring Boot` `JPA` `MySQL` `Spring AI` `Gemini API` `React Native`
 
-[쏙장부 바로가기 ↗](https://ssokledger.duckdns.org/)
+[쏙장부 바로가기 ↗](https://ssokledger.duckdns.org/)<br />
+[쏙장부 포트폴리오 Git↗](https://github.com/mins13/SsokLedger-Portfolio.git)
 
 > 출시 및 운영 중인 서비스로 소스 코드는 비공개입니다.<br />
 > 기획부터 프론트엔드·백엔드 개발, 배포까지 직접 진행했습니다.
