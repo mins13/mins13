@@ -43,7 +43,7 @@
 
 `Spring Boot` `JPA` `MySQL` `Spring AI` `React Native`
 
-<a href="https://ssokledger.duckdns.org/">[쏙장부 바로가기]</a>
+[쏙장부 바로가기 ↗](https://ssokledger.duckdns.org/)
 
 <br />
 
