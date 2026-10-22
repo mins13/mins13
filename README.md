@@ -43,9 +43,7 @@
 
 `Spring Boot` `JPA` `MySQL` `Spring AI` `React Native`
 
-<!-- 저장소 주소를 확인한 뒤 아래 줄의 주석을 해제하세요.
-[코드 보기 ↗](실제-쏙장부-저장소-주소)
--->
+<a href="https://ssokledger.duckdns.org/">[쏙장부 바로가기]</a>
 
 <br />
 
